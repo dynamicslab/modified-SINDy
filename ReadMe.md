@@ -18,4 +18,4 @@ The Lotka-Volterra equations are usually used to describe the dynamics of the pr
 ## Dependencies:
 
 * Numpy, SciPy, Matplotlib, fitter, and TensorFlow 2.0 packages for Python are needed to run the examples.
-
+* The noisy data needed to compare the modified-SINDy and Weak SINDy can be dowloaded [here](https://drive.google.com/file/d/1OsVjzl41Bhk_drb57VeKvGNHcPm5rUNA/view?usp=sharing)
