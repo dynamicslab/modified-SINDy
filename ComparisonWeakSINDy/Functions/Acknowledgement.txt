@@ -1,0 +1,1 @@
+The author would like to thank Daniel A. Messenger for valuable discussion and sharing the code of Weak SINDy.

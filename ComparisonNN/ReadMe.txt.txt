@@ -1,0 +1,1 @@
+1. To calculate the noise robustness of NSS-SINDy, a fixed value of lambda is first used (0.1). For some noise level, this value of lambda might not be optimal and can not result the correct model. Thus, a different values of lambda is tuned for those cases to generate the correct model.
