@@ -2,7 +2,7 @@
 ﻿
 Sparse identification of nonlinear dynamics (SINDy) algorithm is a method that allows the identification of parsimonious system models. However, the SINDy algorithm is sensitive to noise. To overcome this issue, we show an alternative approach for simultaneous denoising and identifying sparse nonlinear models. This new noise signal separation SINDy (NSS-SINDy) algorithm dramatically improves noise robustness of original SINDy algorithm and makes the identification of the noise distribution possible. We show several examples here to illustrate the effectiveness of this new member of the SIINDy family. The details of the approach are in our [arXiv paper]().
 
-![](Images/Method.jpg)
+![](Images/Methods.jpg)
 
 
 ## Examples
