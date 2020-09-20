@@ -2,7 +2,7 @@
 ﻿
 Sparse identification of nonlinear dynamics (SINDy) algorithm is a method that allows the identification of parsimonious system models. However, the SINDy algorithm is sensitive to large noise. To overcome this issue, we develop a variant of the SINDy algorithm that integrates automatic differentiation and recent time-stepping constrained motivated by Rudy et al. for simultaneously (i) denoising the data, (ii) learning and parametrizing the noise probability distribution, and (iii) identifying the underlying parsimonious dynamicalsystem responsible for generating the time-series data. This new noise signal separation SINDy (modified-SINDy) algorithm dramatically improves noise robustness of original SINDy algorithm and makes the identification of the noise distribution possible. We show several examples here to illustrate the effectiveness of this new member of the SINDy family. The details of the approach are in our [arXiv paper]().
 
-<img src="Images/Method.jpg" width="200">
+<img src="Images/Method.jpg" width="800">
 
 ## Examples:
 ### Lorenz Equations
