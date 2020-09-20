@@ -5,7 +5,7 @@ Sparse identification of nonlinear dynamics (SINDy) algorithm is a method that a
 ![](Images/Methods.jpg)
 
 
-## Examples
+## Examples:
 ### Lorenz Equations
 Lorenz equation is a set of ordinary differential equations famous for having chaotic behavior. We will use the Lorenz equations to demonstrate the noise robustness of NSS-SINDy. Moreover, it is also used to test the performance of NSS-SINDy under different data usage.
 ### Van der Pol Oscillator
