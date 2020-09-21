@@ -8,13 +8,13 @@ Sparse identification of nonlinear dynamics (SINDy) algorithm is a method that a
 
 ## Examples:
 ### Lorenz Equations
-Lorenz equation is a set of ordinary differential equations famous for having chaotic behavior. We will use the Lorenz equations to demonstrate the noise robustness of NSS-SINDy. Moreover, it is also used to test the performance of NSS-SINDy under different data usage.
+Lorenz equation is a set of ordinary differential equations famous for having chaotic behavior. We will use the Lorenz equations to demonstrate the noise robustness of modified-SINDy. Moreover, it is also used to test the performance of modified-SINDy under different data usage.
 ### Van der Pol Oscillator
-The Van der Pol oscillator is used to demonstrate that NSS-SINDy can tackle different types of noise distributions. Moreover, we show that NSS-SINDy can identify the non-zero mean noise added to the signal.
+The Van der Pol oscillator is used to demonstrate that modified-SINDy can tackle different types of noise distributions. Moreover, we show that modified-SINDy can identify the non-zero mean noise added to the signal.
 ### Duffing and Cubic Oscillator
-Duffing and Cubic oscillators are used to test the effectiveness of NSS-SINDy under different noise levels.
+Duffing and Cubic oscillators are used to test the effectiveness of modified-SINDy under different noise levels.
 ### Lotka-Volterra Equations
-The Lotka-Volterra equations are usually used to describe the dynamics of the predator-prey system. We will show that NSS-SINDy can identify the models of Lotka-Volterra equations given noisy measurement data.
+The Lotka-Volterra equations are usually used to describe the dynamics of the predator-prey system. We will show that modified-SINDy can identify the models of Lotka-Volterra equations given noisy measurement data.
 
 ## Dependencies:
 
